@@ -1,36 +1,12 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 405.272 405.272" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
-<g xmlns="http://www.w3.org/2000/svg">
-	<path d="M393.401,124.425L179.603,338.208c-15.832,15.835-41.514,15.835-57.361,0L11.878,227.836   c-15.838-15.835-15.838-41.52,0-57.358c15.841-15.841,41.521-15.841,57.355-0.006l81.698,81.699L336.037,67.064   c15.841-15.841,41.523-15.829,57.358,0C409.23,82.902,409.23,108.578,393.401,124.425z" fill="#ffba19" data-original="#000000" class=""/>
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-</g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="256px" height="256px" viewBox="-2 -2 24.00 24.00" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#1c3144" stroke-width="0.2" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)">
+
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.2"/>
+
+<g id="SVGRepo_iconCarrier"> <path fill="#1c3144" fill-rule="evenodd" d="M3 10a7 7 0 019.307-6.611 1 1 0 00.658-1.889 9 9 0 105.98 7.501 1 1 0 00-1.988.22A7 7 0 113 10zm14.75-5.338a1 1 0 00-1.5-1.324l-6.435 7.28-3.183-2.593a1 1 0 00-1.264 1.55l3.929 3.2a1 1 0 001.38-.113l7.072-8z"/> </g>
+
+</svg>
